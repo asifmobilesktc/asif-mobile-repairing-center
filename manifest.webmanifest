@@ -1,0 +1,10 @@
+{
+  "name": "Asif Mobile Repairing Center",
+  "short_name": "Asif Repair",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07172e",
+  "theme_color": "#07172e",
+  "description": "Book mobile phone repairs and explore repair services.",
+  "icons": []
+}
